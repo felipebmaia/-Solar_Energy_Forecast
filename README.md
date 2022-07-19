@@ -8,4 +8,5 @@ The data was collected through the California ISO Reports. It was performed an e
 
 Enjoy the full Presentation to know the path and understand the amazing Universe of Solar Forecast!
 
+
 ![energia-solar-fotovoltaica-paineis-solares](https://user-images.githubusercontent.com/95922808/179784034-2a694914-38e7-4925-9302-2f842736268b.jpg)
